@@ -14,7 +14,7 @@
   
 
 <div align="center">
-<img src="https://imgurl.ir/uploads/u071062_Link.jpg" align="center" style="width: 100%" />
+<img src="https://imgurl.ir/uploads/u071062_Link.jpg" align="center" style="width: 50%" />
 </div>  
   
 
