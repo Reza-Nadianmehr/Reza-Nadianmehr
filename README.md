@@ -1,10 +1,10 @@
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Raya , a Senior freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on Data Science an AI  
+- 🔭 I'm currently working on AI and Data Science 
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Web Scraper, My Sql and Image Processing  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
