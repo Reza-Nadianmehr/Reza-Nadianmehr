@@ -6,11 +6,6 @@
 
 - 🌱 I’m currently learning Web Scraper, My Sql and Image Processing  
   
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <div align="center">
